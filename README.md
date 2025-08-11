@@ -1,6 +1,6 @@
 1) Imports libraries
-       pandas for data manipulation and analysis.
-       matplotlib.pyplot for creating plots and charts.
+   pandas for data manipulation and analysis.
+   matplotlib.pyplot for creating plots and charts.
 3) Load CSV Data
    Reads the sales_data.csv file into a DataFrame called df.
    Prints the first few rows (head()) to give a preview of the data structure and content.
